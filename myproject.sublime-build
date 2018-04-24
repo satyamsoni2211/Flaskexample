@@ -1,0 +1,6 @@
+{
+
+	"cmd":["E:/myproject/Scripts/python.exe","$file"],
+	"selector": "source.python",
+	"file_regex":"file \"(...*?)\", line ([0-9]+)"
+}
